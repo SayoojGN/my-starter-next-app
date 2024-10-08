@@ -2,7 +2,6 @@
 import React from "react";
 import Link from "next/link";
 import "./Navbar.css";
-import myImage from "../resources/logo2.png";
 import { useState } from "react";
 import Flyoutlink from "../Flyoutlink/Flyoutlink";
 

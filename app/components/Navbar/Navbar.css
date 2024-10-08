@@ -4,56 +4,56 @@
 }
 
 .logo {
-    background-image: url('../resources/logo2.png');
+    background-image: url('../../resources/logo2.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; 
 }
 
 .iconSedan {
-    background-image: url('../resources/Sedan.png');
+    background-image: url('../../resources/Sedan.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; 
 }
 
 .iconSuper {
-    background-image: url('../resources/supercar.png');
+    background-image: url('../../resources/supercar.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .iconHatch {
-    background-image: url('../resources/Hatchback.png');
+    background-image: url('../../resources/Hatchback.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .iconCoupe {
-    background-image: url('../resources/coupe.png');
+    background-image: url('../../resources/coupe.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .iconSUV {
-    background-image: url('../resources/SUV.png');
+    background-image: url('../../resources/SUV.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .iconCUV {
-    background-image: url('../resources/CUV.png');
+    background-image: url('../../resources/CUV.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .iconPickup {
-    background-image: url('../resources/pickup.png');
+    background-image: url('../../resources/pickup.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
